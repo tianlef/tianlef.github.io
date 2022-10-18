@@ -1,4 +1,7 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This is a bolg, recoding some notes for the needed knowledge of java enginner. 
+At the same time, I will write some experience of finding a job.
+
+My life is not full enough, but i will try my best to make it exciting in the future.
 
