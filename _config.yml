@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Dream a dream!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+description: Dream is beautiful, but you must focus on something detail.
+github_username: tianlef
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: tianlef@163.com
+twitter_username: tianlef
 
 # Set this to true to get LaTeX math equation support
 use_math:
