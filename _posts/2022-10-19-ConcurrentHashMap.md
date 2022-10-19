@@ -39,9 +39,11 @@
     ```
 - 红黑树
   - 当链表长度大于8时，将链表转化成红黑树，以加快检索速度
-  
+
 
 ## ConcurrentHashMap
+
+![ConcurrentHashMap图解](/images/notes/concurrentHashMap.png "ConcurrentHashMap图解")
 
 - Map并发安全的解决办法
   - HashTable
