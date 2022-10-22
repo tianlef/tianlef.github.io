@@ -12,4 +12,5 @@
 
 - 一阶谓词逻辑
 - 霍恩子句和霍恩逻辑
-  - $$
+  <!--$\neg{p_{1}} \vee \neg{p_{2}} \cdots \vee \neg{p_{n}} \vee q = (p_{1} \wedge p_{2} \cdots p_{n}) \rightarrow q$-->
+  - <img src="http://latex.codecogs.com/gif.latex?\neg{p_{1}} \vee \neg{p_{2}} \cdots \vee \neg{p_{n}} \vee q = (p_{1} \wedge p_{2} \cdots p_{n}) \rightarrow q" />
