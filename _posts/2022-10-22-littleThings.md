@@ -34,3 +34,8 @@
 - Tree Appearence
 - compact Middle Packages
 - 取消
+
+## IDEA配置git路径
+
+- 查询本机git安装路径
+  - where git
